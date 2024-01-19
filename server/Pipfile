@@ -5,15 +5,9 @@ name = "pypi"
 
 [packages]
 flask = "*"
-flask-sqlalchemy = "*"
-werkzeug = "*"
 flask-migrate = "*"
 flask-restful = "*"
-importlib-metadata = "*"
-importlib-resources = "*"
-ipdb = "*"
-pytest = "*"
-faker = "*"
+flask-sqlalchemy = "*"
 sqlalchemy-serializer = "*"
 
 [dev-packages]
